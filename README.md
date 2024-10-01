@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mithat</h1>
 <h3 align="center">A passionate fullstack developer from Turkey</h3>
-<img align="right" alt="coding" widht="400" src="https://gist.github.com/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471#file-my-work-gif">
+<img align="right" alt="coding" widht="400" src="<script src="https://gist.github.com/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471.js"></script>">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mithatural&label=Profile%20views&color=0e75b6&style=flat" alt="mithatural" /> </p>
 
